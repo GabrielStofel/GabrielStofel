@@ -22,4 +22,10 @@ Abaixo você pode conhecer um pouco mais sobre mim e o que eu gosto de fazer!
 * Ler bons livros
 * Cubo Mágico
 
+## 💻 Interesses:
+* Engenharia/Desenvolvimento de Software
+* Dev Full-Stack
+* Desenvolvimento mobile
+* Computação na Nuvem
+
 [1]: https://www.linkedin.com/in/gabriel-s-9121a7a7/
