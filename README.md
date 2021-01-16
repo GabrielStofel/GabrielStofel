@@ -6,9 +6,12 @@ Abaixo você pode conhecer um pouco mais sobre mim e o que eu gosto de fazer!
 
 ## 🔨 Tecnologias e Ferramentas que eu amo usar e aprender:
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
-![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![React Native](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![VSCode](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![React Native](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=2bbc8a) 
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
+![IntelliJ IDEA](https://img.shields.io/badge/IDE-Intellij_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![Scala](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=Scala&logoColor=white&color=2bbc8a)
+![Spark](https://img.shields.io/badge/Framework-Spark-informational?style=flat&logo=apache-spark&logoColor=white&color=2bbc8a)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![NodeJS](https://img.shields.io/badge/Runtime-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![MongoDB](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
@@ -28,3 +31,4 @@ Abaixo você pode conhecer um pouco mais sobre mim e o que eu gosto de fazer!
 * Dev Full-Stack
 * Desenvolvimento Mobile
 * Computação na Nuvem
+ 
