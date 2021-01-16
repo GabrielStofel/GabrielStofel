@@ -1,6 +1,7 @@
 # Oi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Meu nome é Gabriel, moro no Rio de Janeiro e atualmente estudo Ciência da Computação na UFF. Sinta-se à vontade para dar uma olhada nos meus repositórios e se conectar comigo no [LinkedIn](https://www.linkedin.com/in/gabriel-s-9121a7a7/). <br/>
+Meu nome é Gabriel, moro no Rio de Janeiro e atualmente sou estagiário em Engenharia de Software na Globo! Pra completar, eu também estudo Ciência da Computação na UFF.
+Sinta-se à vontade para dar uma olhada nos meus repositórios e se conectar comigo no [LinkedIn](https://www.linkedin.com/in/gabriel-s-9121a7a7/). <br/>
 Abaixo você pode conhecer um pouco mais sobre mim e o que eu gosto de fazer!
 
 ## 🔨 Tecnologias e Ferramentas que eu amo usar e aprender:
@@ -25,5 +26,5 @@ Abaixo você pode conhecer um pouco mais sobre mim e o que eu gosto de fazer!
 ## 💻 Interesses:
 * Engenharia/Desenvolvimento de Software
 * Dev Full-Stack
-* Desenvolvimento mobile
+* Desenvolvimento Mobile
 * Computação na Nuvem
