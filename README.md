@@ -24,6 +24,7 @@ Abaixo você pode conhecer um pouco mais sobre mim e o que eu gosto de fazer!
 * Piano
 * Correr
 * Ler bons livros
+* Xadrez
 * Cubo Mágico
 
 ## 💻 Interesses:
