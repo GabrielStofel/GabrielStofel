@@ -7,6 +7,7 @@ Abaixo você pode conhecer um pouco mais sobre mim e o que eu gosto de fazer!
 ## 🔨 Tecnologias e Ferramentas que eu amo usar e aprender mais sobre:
 ![GCP](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![Terraform](https://img.shields.io/badge/IAC-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![SQL](https://img.shields.io/badge/DB-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
@@ -15,7 +16,6 @@ Abaixo você pode conhecer um pouco mais sobre mim e o que eu gosto de fazer!
 ![IntelliJ IDEA](https://img.shields.io/badge/IDE-Intellij_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![NodeJS](https://img.shields.io/badge/Runtime-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![MongoDB](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![Postman](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 ![Git](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
